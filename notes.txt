@@ -1,1 +1,6 @@
-python manage.py runserver
+python manage.py runserver -> here: (venv) C:\Users\Latitude 7270\Desktop\django-project\studybud>
+python manage.py makemigrations --> create migration
+----------------------------------------------------
+superuser:
+ - username: latitude7270
+ - password: baka2282381843
