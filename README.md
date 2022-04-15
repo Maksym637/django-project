@@ -19,7 +19,7 @@
 - - -
 ### Overview
 **_Login page_**
-![](screens/picture_3.jpg)
+![Login page](screens/picture_3.jpg)
 
 **_Edit user page_**
 ![Edit user page](screens/picture_2.jpg)
