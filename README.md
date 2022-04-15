@@ -15,7 +15,21 @@
   * Backend (server side):
     _php_, _django_ and _REST API_
   * Frontend (client side):
-    _angular_
+    _angular_ + _django_
 - - -
-...
+### Overview
+**_Login page_**
+![Login page](screens/picture_3.jpg)
+
+**_Edit user page_**
+![Edit user page](screens/picture_2.jpg)
+
+**_Home page_**
+![Home page](screens/picture_1.jpg)
+
+**_Topics page_**
+![Topics pag](screens/picture_5.jpg)
+
+**_Chat room page_**
+![Chat room page](screens/picture_6.jpg)
 - - -
