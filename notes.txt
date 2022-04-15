@@ -1,6 +1,15 @@
-python manage.py runserver -> here: (venv) C:\Users\Latitude 7270\Desktop\django-project\studybud>
-python manage.py makemigrations --> create migration
-----------------------------------------------------
-superuser:
- - username: latitude7270
- - password: baka2282381843
+---------------------------------------------------------------------------------
+                                    < COMMANDS >
+---------------------------------------------------------------------------------
+installing django : pip install django
+
+activation via admin : django-admin
+
+create project dir (with files) : django-admin startproject name
+---------------------------------------------------------------------------------
+create migration : python manage.py makemigrations
+
+run migration : python manage.py migrate
+---------------------------------------------------------------------------------
+activate server (in folder \studybud>): python manage.py runserver
+---------------------------------------------------------------------------------
